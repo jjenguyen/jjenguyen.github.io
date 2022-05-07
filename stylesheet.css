@@ -1,0 +1,58 @@
+
+/* Navigation Bar */
+
+.navbar {
+
+background-color: green;
+
+position: fixed;
+
+width: 100%;
+
+}
+
+.navbar a {
+
+float: left;
+
+justify-content: center;
+
+display: block;
+
+color: white;
+
+padding: 15px 17px;
+
+text-decoration: underline;
+
+font-size: 20px;
+
+}
+
+/* Home Page */
+
+.home {
+
+text-align: center;
+
+font-size: 40px;
+
+background-color: #1B2631; color: white;
+
+height: 100vh;
+
+width: 100%;
+
+}
+
+/* Footer */
+
+footer p {
+
+background-color: #1B2631;
+
+font-size: 1.2em;
+
+padding: 15px 17px;
+
+}
